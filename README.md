@@ -23,23 +23,32 @@ Menampilkan angka 0–9 pada seven segment melalui pemrograman Arduino.
 Seven Segment Display adalah komponen elektronika yang digunakan untuk menampilkan angka desimal dan beberapa karakter tertentu. Seven segment terdiri dari tujuh buah segmen LED yang disusun membentuk angka "8" dan satu titik desimal (dot). Setiap segmen dapat dikontrol secara ON atau OFF untuk membentuk angka tertentu. Seven segment banyak digunakan pada jam digital, kalkulator, penghitung digital, panel instrumen, dan alat ukur elektronik. Berdasarkan konfigurasi pin-nya, seven segment terbagi menjadi dua jenis:
 
 A. Common Cathode
+
 Semua kaki katoda segmen disatukan dan dihubungkan ke ground (GND). Segmen akan menyala jika diberi logika HIGH.
 
 B. Common Anode
+
 Semua kaki anoda segmen disatukan dan dihubungkan ke tegangan positif (+5V). Segmen akan menyala jika diberi logika LOW.
 
 Pada praktikum ini digunakan seven segment LED yang dihubungkan langsung ke pin digital Arduino sehingga pola nyala segmen dikontrol menggunakan program.
 
 3. Peralatan
+   
 Laptop
+
 Board Arduino Uno
+
 Kabel USB
+
 Breadboard
+
 Seven Segment Display
+
 Resistor (220 Ω – 330 Ω)
+
 Jumper wires
 
-4. Rangkaian Praktikum
+5. Rangkaian Praktikum
 Rangkaian praktikum dilakukan dengan menghubungkan:
 
 Pin segmen a–g seven segment ke pin digital Arduino (misalnya pin 2 sampai 8)
@@ -51,6 +60,7 @@ Setiap segmen diberi resistor sebagai pembatas arus
 Rangkaian ini memungkinkan Arduino mengendalikan setiap segmen untuk menampilkan angka 0 sampai 9.
 
 5. Prosedur Praktikum
+   
 a. Menyiapkan seluruh peralatan praktikum.
 
 b. Menghubungkan Arduino ke laptop menggunakan kabel USB.
