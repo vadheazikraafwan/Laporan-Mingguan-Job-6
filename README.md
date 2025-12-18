@@ -18,9 +18,11 @@ Seven segment banyak digunakan pada jam digital, kalkulator, penghitung digital,
 Berdasarkan konfigurasi pin-nya, seven segment terbagi menjadi dua jenis:
 
 1. **Common Cathode**
+
    Semua kaki katoda segmen disatukan dan dihubungkan ke ground (GND). Segmen akan menyala jika diberi logika HIGH.
 
-2. **Common Anode**
+3. **Common Anode**
+
    Semua kaki anoda segmen disatukan dan dihubungkan ke tegangan positif (+5V). Segmen akan menyala jika diberi logika LOW.
 
 Pada praktikum ini digunakan seven segment LED yang dihubungkan langsung ke pin digital Arduino sehingga pola nyala segmen dikontrol menggunakan program.
