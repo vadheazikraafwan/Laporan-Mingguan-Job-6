@@ -1,11 +1,14 @@
 # Laporan-Mingguan-Job-6
 
 Nama: Vadhea Zikra Afwan
+
 NPM: 2410017514015
 Prodi: TRKJ
+
 Mata Kuliah: LAB IV Basic Analog Electronic
 
 1. Tujuan Praktikum
+   
 Tujuan dari praktikum ini adalah:
 Mengetahui prinsip kerja seven segment display.
 
@@ -16,9 +19,12 @@ Mengimplementasikan seven segment menggunakan Arduino.
 Menampilkan angka 0–9 pada seven segment melalui pemrograman Arduino.
 
 2. Teori
+   
 Seven Segment Display adalah komponen elektronika yang digunakan untuk menampilkan angka desimal dan beberapa karakter tertentu. Seven segment terdiri dari tujuh buah segmen LED yang disusun membentuk angka "8" dan satu titik desimal (dot). Setiap segmen dapat dikontrol secara ON atau OFF untuk membentuk angka tertentu. Seven segment banyak digunakan pada jam digital, kalkulator, penghitung digital, panel instrumen, dan alat ukur elektronik. Berdasarkan konfigurasi pin-nya, seven segment terbagi menjadi dua jenis:
+
 A. Common Cathode
 Semua kaki katoda segmen disatukan dan dihubungkan ke ground (GND). Segmen akan menyala jika diberi logika HIGH.
+
 B. Common Anode
 Semua kaki anoda segmen disatukan dan dihubungkan ke tegangan positif (+5V). Segmen akan menyala jika diberi logika LOW.
 
