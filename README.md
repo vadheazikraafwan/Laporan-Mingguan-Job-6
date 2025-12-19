@@ -62,8 +62,8 @@ Rangkaian ini memungkinkan Arduino mengendalikan setiap segmen untuk menampilkan
 ## 6. Foto Prosedur Praktikum 
 
 
-![WhatsApp Image 2025-12-19 at 03 34 18](https://github.com/user-attachments/assets/76e9cd38-9b0d-4182-a758-808103cf30ca)
 
+![WhatsApp Image 2025-12-19 at 14 28 17](https://github.com/user-attachments/assets/ccd98c0d-96ad-44ca-9d19-9d1e92260313)
 
 
 
